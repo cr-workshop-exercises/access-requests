@@ -1,7 +1,7 @@
 ---
 name: Access request
 about: Access request for the collaborative exercise
-title: ''
+title: Add me as collaborator to the exercise repository
 labels: ''
 assignees: ''
 
